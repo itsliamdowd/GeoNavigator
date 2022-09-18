@@ -1,3 +1,5 @@
+![logo](https://github.com/SkiingIsFun123/Geoguessr-Helper/blob/main/logo.png)
+
 # Geoguessr-Helper
 
 Chrome extension that helps you win every Geoguessr round!
