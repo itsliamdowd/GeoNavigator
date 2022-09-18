@@ -11,7 +11,7 @@
   <body>
     <div class="container mt-3" style="width: 450px">
       <h2 class="text-center">Geoguessr Location</h2>
-      <table class="table table-bordered">
+      <table class="table table-bordered tableclass">
         <thead>
           <tr>
             <th>Street</th>
@@ -20,12 +20,22 @@
         </thead>
         <tbody>
           <tr>
-            <td id="street"></td>
-            <td id="city"></td>
+            <td id="street">Remember to refresh page before using extension!</td>
+            <td id="city">Loading...</td>
           </tr>
         </tbody>
       </table>
+      <a href="" target="_blank" id="link"><h2 class="text-center">Google Maps Link</h2></a>
     </div>
   </body>
   <script src="popup.js"></script>
 </html>
+
+<style>
+    .tableclass {
+        border: 2px solid red;
+    }
+    #link {
+        display: none;
+    }
+</style>
