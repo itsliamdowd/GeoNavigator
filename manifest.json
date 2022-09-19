@@ -1,11 +1,13 @@
 {
   "name": "Geoguessr Helper",
   "version": "1.0.0",
+  "description": "A simple extension to help you play Geoguessr better.",
   "manifest_version": 3,
   "content_scripts": [
     {
       "matches": ["https://www.geoguessr.com/game/*"],
-      "js": ["content_script.js"]
+      "js": ["content_script.js"],
+      "all_frames": true
     }
   ],
   "action": {
