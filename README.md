@@ -4,6 +4,7 @@
 
 Chrome extension that helps you win every Geoguessr round!
 
+This extension can be found on the Chrome Web Store using this link: https://chrome.google.com/webstore/detail/geoguessr-helper/khchhghekameiogaofnhchgadjaommli
 ## Use
    1. Download the extension by cloning the github repository
    2. Unzip the folder
