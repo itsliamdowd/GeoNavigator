@@ -1,16 +1,14 @@
 ![logo](https://github.com/SkiingIsFun123/Geoguessr-Helper/blob/main/logo.png)
 
-# Geoguessr Helper
+# GeoNavigator
+Introducing the ultimate Geoguessr companion: the GeoNavigator Chrome extension! Now you can dominate every round and amaze your friends with your unbeatable guessing skills. Get ready to explore the world like never before and skyrocket to the top of the Geoguessr leaderboard!
 
-Chrome extension that helps you win every Geoguessr round!
+## To Use
+- Open the round of Geoguessr you're currently playing and refresh the page to ensure the extension is properly activated.
+- Locate the GeoNavigator icon among your Chrome extensions and click on it.
+- Make your guess!
+  
+With the GeoNavigator extension at your side, you'll have access to invaluable information, tips, and hints that will give you an edge in every round. This extension will empower you to make the most accurate and confident guesses.
 
-This extension can be found on the Chrome Web Store using this link: https://chrome.google.com/webstore/detail/geoguessr-helper/khchhghekameiogaofnhchgadjaommli
-## Use
-   1. Download the extension by cloning the github repository
-   2. Unzip the folder
-   3. Open chrome and click the Extensions (puzzle piece) icon > Manage Extensions > Load unpacked
-   4. Find the folder you unzipped, click it, and press open
-   5. Open the round of Geoguessr you're on
-   6. Refresh the page
-   7. Open the extension
-   8. Make your guess based on the information in the extension
+So, what are you waiting for? Elevate your Geoguessr experience with the GeoNavigator Chrome extension. Download it now and prepare for an adventure like no other!
+
